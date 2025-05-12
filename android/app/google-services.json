@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "284530663860",
+    "project_id": "nairide-e0a9c",
+    "storage_bucket": "nairide-e0a9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284530663860:android:05a93d1ca8c939977d12e1",
+        "android_client_info": {
+          "package_name": "com.mendwell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Ft9oRMA1E0RPmKQ6tpy8_vb0DGwgRFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284530663860:android:a89bf5ae3f7744137d12e1",
+        "android_client_info": {
+          "package_name": "com.nairide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Ft9oRMA1E0RPmKQ6tpy8_vb0DGwgRFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284530663860:android:94f7440c03bc5e547d12e1",
+        "android_client_info": {
+          "package_name": "com.nairiderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Ft9oRMA1E0RPmKQ6tpy8_vb0DGwgRFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
